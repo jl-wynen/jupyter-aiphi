@@ -1,7 +1,5 @@
 # aiphi
 
-[![Github Actions Status](git@github.com:jl-wynen/jupyter-aiphi.git/workflows/Build/badge.svg)](git@github.com:jl-wynen/jupyter-aiphi.git/actions/workflows/build.yml)
-
 Aiphi theme for JupyterLab
 
 
