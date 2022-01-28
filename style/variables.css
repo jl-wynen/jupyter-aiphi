@@ -201,9 +201,9 @@ all of MD as it is not optimized for dense, information rich UIs.
    * theme these would go from light to dark.
    */
 
-  --jp-layout-color0: #111111;
-  --jp-layout-color1: var(--md-grey-900);
-  --jp-layout-color2: var(--md-grey-800);
+  --jp-layout-color0: #19191a;
+  --jp-layout-color1: #1f1f21;
+  --jp-layout-color2: #242426;
   --jp-layout-color3: var(--md-grey-700);
   --jp-layout-color4: var(--md-grey-600);
 
@@ -262,11 +262,11 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-cell-collapser-min-height: 20px;
   --jp-cell-collapser-not-active-hover-opacity: 0.6;
 
-  --jp-cell-editor-background: var(--jp-layout-color1);
-  --jp-cell-editor-border-color: var(--md-grey-700);
-  --jp-cell-editor-box-shadow: inset 0 0 2px var(--md-blue-300);
-  --jp-cell-editor-active-background: var(--jp-layout-color0);
-  --jp-cell-editor-active-border-color: var(--jp-brand-color1);
+  --jp-cell-editor-background: #2b2b2b;
+  --jp-cell-editor-border-color: var(--jp-layout-color0);
+  --jp-cell-editor-box-shadow: none;
+  --jp-cell-editor-active-background: #202020;
+  --jp-cell-editor-active-border-color: #007ce8;
 
   --jp-cell-prompt-width: 64px;
   --jp-cell-prompt-font-family: var(--jp-code-font-family-default);
