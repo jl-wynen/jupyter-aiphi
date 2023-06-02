@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.0.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: j-l.wynen@hotmail.de
+author_name: Jan-Lukas Wynen
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: theme
+labextension_name: aiphitheme
+mimetype: ''
+mimetype_name: ''
+project_short_description: The Aiphi Jupyter theme.
+python_name: jupyter-aiphi
+repository: https://github.com/jl-wynen/jupyter-aiphi
+test: true
+viewer_name: ''
+

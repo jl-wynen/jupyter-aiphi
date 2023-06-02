@@ -2,4 +2,5 @@ node_modules
 **/node_modules
 **/lib
 **/package.json
-aiphi
+!/package.json
+jupyter-aiphi
