@@ -18,7 +18,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
     const style = 'aiphitheme/index.css';
 
     manager.register({
-      name: 'aiphitheme',
+      name: 'Aiphi',
       isLight: false,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
